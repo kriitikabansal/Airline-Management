@@ -1,0 +1,1 @@
+Airline management System is a computerized system used to store and retrieve information, book flights, cancel flights etc. The project is aimed at enhancing the relationship between customers and airline agencies . 
